@@ -8,7 +8,7 @@
     <mark>$proprietario </mark><br>
     <h1>Locador: </h1><br>
     <mark>$locador</mark><br>
-    = $ Valor Reajustado: <br>
+    = $ Valor Reajustado: <br> 
     $novo_valor<br>= % valor<br>
-    $porcent_reajuste";
+    $porcent_reajuste"; 
 ?>
